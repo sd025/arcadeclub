@@ -13,6 +13,7 @@ import NewsDetails from "./pages/NewsDetails";
 import Cart from "./components/Cart";
 import { CartProvider } from "react-use-cart";
 import WishList from "./components/WishList";
+// import WishList from "./components/WishList";
 import Signin2 from "./pages/Signin2";
 import EpicSignIn from './pages/EpicSignIn'
 // import SignIn from './pages/SignIn';
